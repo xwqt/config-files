@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=xwqt&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-20-pink" />
+<img src="https://img.shields.io/badge/Age-21-pink" />
   <img src="https://img.shields.io/badge/Focus-FiveM-pink" />
   <img src="https://img.shields.io/badge/Lives-Poland-pink" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Polish-pink" />
